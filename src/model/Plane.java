@@ -7,7 +7,7 @@ public class Plane {
     int hours;
     boolean isMilitary;
     int weight;
-    int topSpeed; //make sure
+    int topSpeed;
     int seats;
     double cost;
 
