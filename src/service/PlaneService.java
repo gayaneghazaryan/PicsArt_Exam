@@ -86,7 +86,7 @@ public class PlaneService {
     }
 
     //Task 6
-    public Plane minimalWeight(Plane[] planes) { //check once more
+    public Plane minimalWeight(Plane[] planes) {
         Plane min = planes[0];
 
         for(int i = 1; i < planes.length; i++) {
